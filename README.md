@@ -1,6 +1,6 @@
 # news_mania
 
-A new Flutter project.
+Fetch latest news across India using this app.
 
 ## Getting Started
 
